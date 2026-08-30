@@ -16,7 +16,7 @@
 
 # 👋 Hey there, I'm Joseph
 
-I turn caffeine into full-stack software and keep enterprise network infrastructure
+I turn ☕ into full-stack software and keep enterprise network infrastructure
 running smoothly — which mostly means it stays boring, and boring is the highest
 compliment you can pay a network.
 
@@ -31,12 +31,12 @@ $ whoami
 
 ### 🛠️ Things I built so somebody didn't have to pay for them
 
-| | |
-|---|---|
-| 🏷️ **Tag Your It** | A social platform that doesn't want your attention span. |
-| 💈 **Forever Faded** | Booking, payments and receipts for a barbershop that deserved better software. |
-| ⚙️ **Henderson Config Generator** | Because typing the same switch config forty times is not a personality. |
-| 📺 **Free Family Display** | A family wall display. Free, self-hosted, no subscription. *Because who needs to pay $300 for a board?* |
+| | Project | |
+|:--:|---|---|
+| <img src="tag-mark.png" width="26" alt=""> | **[Tag You're It](https://tagmenow.app)** | A social platform that doesn't want your attention span. → [tagmenow.app](https://tagmenow.app) |
+| 💈 | **Forever Faded** | The website for a barbershop that deserved better software than it had. |
+| ⚙️ | **Henderson Config Generator** | Because typing the same switch config forty times is not a personality. |
+| 📺 | **[Free Family Display](https://github.com/layeroneit/FreeFamilyDisplay)** | A self-hosted family wall display. Free forever, no subscription, no telemetry. *Because who needs to pay $300 for a board?* |
 
 ### 🚧 Currently building
 
