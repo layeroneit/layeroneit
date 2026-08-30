@@ -34,11 +34,11 @@ $ whoami
 
 ---
 
-### 🛠️ Things I build
+### 🛠️ Things I built so somebody didn't have to pay for them
 
 | | Project | |
 |:--:|---|---|
-| <img src="tag-mark.png" width="26" alt=""> | **[Tag You're It](https://tagmenow.app)** | A social platform that doesn't want your attention span. Web, [iOS][ios] and [Android][and]. → [tagmenow.app](https://tagmenow.app) |
+| <img src="tag-mark.png" width="26" alt=""> | **[Tag You're It](https://tagmenow.app)** | A social platform that doesn't want your attention span. Web, [iOS][ios] and [Android][and]. → [tagmenow.app](https://tagmenow.app)<br><br>*…okay, you got me. **This one costs money.** Turns out “we don't sell your data” is just a fancy way of saying “I pay the hosting bill myself.”* |
 | 🏢 | **[Layer One IT Consultants](https://layeroneconsultants.com/)** | The actual company. Networks that stay boring, and the software that runs on them. |
 | 🎙️ | **The Mental Shift** | A podcast. Because apparently talking to computers all day wasn't enough talking. |
 | 💈 | **Forever Faded** | The website for a barbershop that deserved better software than it had. |
