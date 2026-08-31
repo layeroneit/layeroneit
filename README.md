@@ -20,8 +20,8 @@ with a passion for cooking up new ideas on and off the screen
 # 👋 Hey there, I'm Joseph
 
 I turn ☕ into full-stack software and keep enterprise network infrastructure
-running smoothly — which mostly means it stays boring, and boring is the highest
-compliment you can pay a network.
+running smoothly — which mostly means the group chat stays quiet. A quiet group
+chat is the whole job.
 
 I run **[Layer One IT Consultants](https://layeroneconsultants.com/)**, where the
 job description is "whatever the network is doing, make it stop." Routing,
@@ -42,10 +42,10 @@ $ whoami
 | | Project | |
 |:--:|---|---|
 | <img src="tag-mark.png" width="26" alt=""> | **[Tag You're It](https://tagmenow.app)** | A social platform that doesn't want your attention span. Web, [iOS][ios] and [Android][and]. → [tagmenow.app](https://tagmenow.app)<br><br>*…okay, you got me. **This one costs money.** Turns out “we don't sell your data” is just a fancy way of saying “I pay the hosting bill myself.”* |
-| 🏢 | **[Layer One IT Consultants](https://layeroneconsultants.com/)** | The actual company. Networks that stay boring, and the software that runs on them. |
+| 🏢 | **[Layer One IT Consultants](https://layeroneconsultants.com/)** | The actual company. Networks you never think about, and software you actually want to.<br><br>*(It's never the network. It's DNS. It's always DNS.)* |
 | 🎙️ | **The Mental Shift** | A podcast. Because apparently talking to computers all day wasn't enough talking. |
-| 💈 | **Forever Faded** | The website for a barbershop that deserved better software than it had. |
-| ⚙️ | **Henderson Config Generator** | Because typing the same switch config forty times is not a personality. |
+| 💈 | **[Forever Faded](https://foreverfadedmke.com)** | The website for a barbershop that deserved better software than it had. |
+| ⚙️ | **[Henderson Config Generator](https://layeroneit.github.io/henderson-cisco-config-generator/)** | Because typing the same switch config forty times is not a personality. |
 | 📺 | **[Free Family Display](https://github.com/layeroneit/FreeFamilyDisplay)** | A self-hosted family wall display. Free forever, no subscription, no telemetry. *Because who needs to pay $300 for a board?* |
 
 [ios]: https://apps.apple.com/us/app/tag-youre-it/id6762495355
