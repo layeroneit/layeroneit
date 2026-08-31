@@ -8,7 +8,10 @@
 
 <br><br>
 
-**`Human by day. Code-compiling machine by night.`**
+**Architecting secure enterprise networks. Building scalable apps.**
+
+Bridging the gap between robust network security and full-stack software,<br>
+with a passion for cooking up new ideas on and off the screen
 
 </div>
 
