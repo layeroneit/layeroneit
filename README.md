@@ -17,7 +17,7 @@ with a passion for cooking up new ideas on and off the screen
 
 ---
 
-# 👋 Hey there, I'm Joseph
+# 👋 Hey there, I'm Joseph J. Henderson
 
 I turn ☕ into full-stack software and keep enterprise network infrastructure
 running smoothly — which mostly means the group chat stays quiet. A quiet group
